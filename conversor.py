@@ -1,3 +1,5 @@
+# code to change your currency
+
 def conversor(type_currency, dollar_value):
         currency = float(input('Insert how much ' + type_currency + ' you have: '))
         dollars = currency / dollar_value

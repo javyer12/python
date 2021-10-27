@@ -1,3 +1,5 @@
+# code to know about palindrome words
+
 def palindrome(word):
         word = word.replace(' ', '_')
         word = word.lower()

@@ -1,3 +1,5 @@
+# code to get the factorial function
+
 def run():
   num = input('Write down a number get its factorial: ')
   if num.isdigit():

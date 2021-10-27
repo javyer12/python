@@ -1,3 +1,4 @@
+# code to generate a random password
 import random
 
 def get_password():

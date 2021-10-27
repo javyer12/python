@@ -1,3 +1,4 @@
+# function to know if your number is prime or not
 def is_prime(num):
   counter = 0
 

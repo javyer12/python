@@ -1,3 +1,5 @@
+# code to learn how to change a loop
+
 def run():
   for contador in range(10):
     if contador % 2 != 0:

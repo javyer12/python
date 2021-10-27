@@ -1,3 +1,5 @@
+# code to learn how bucles work
+
 def run():
         LIMIT = 1000
 
