@@ -5,3 +5,17 @@ if edad > 17 :
 else:
         print('eres menor de edad')
 
+
+
+nombre =' nombre'
+num = 15
+
+esto = nombre / num
+print(esto)
+
+
+num = 10 / 2 + 5 * 7
+
+print(num)
+
+
