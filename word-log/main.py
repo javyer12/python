@@ -1,7 +1,7 @@
 import random
 
 def run():
-    word = input("Enter a list of words: ")
+    word = input("Enter a list of letters: ")
     # comparation of words
     vowel = ["a", "e", "i", "o", "u"]
     not_allowed = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "_", "+", "=", "?", ".", ",", ";", ":", "/", ">", "<", "|", "~", "`", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
@@ -24,9 +24,11 @@ def run():
     #         print("The word starts with a consonant:  " + str(random_letter))
     #         attemps -= 1
     new_word = []
+    ["d","y"]
     for i in random_letter:
         if 5 < 6:
             if i in vowel:
+                print("es una vocal")
                 new_word.append(i)
             elif i in not_allowed:
                  if new_word.length() >= 6 :
