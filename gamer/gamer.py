@@ -56,3 +56,4 @@ sub = input("insert subjects: ")
 finish = sub.split(',')
 subject.append(finish)
 print(subject)
+
